@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Kwon
+description: Kwon Blog
+author: Kwon
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
 about: Freelance developer
 
 baseurl: ""
-url: ""
+url: "https://sherrykai.github.io"
 
 allowsearch: true
 
